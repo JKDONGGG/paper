@@ -1,1 +1,1 @@
-papers of GANs algorithm
+papers of GANs/DL
